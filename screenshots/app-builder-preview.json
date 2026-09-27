@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Verdex · Green Score logistics",
+      "hasCanvas": false,
+      "bodyTextLen": 946,
+      "bodyTextHash": "038dcf8193ecf86b9ca39f581fde5e9ffb3f3948782b58d249e9dd3f5cc570dc",
+      "bodyTextPrefix": "Verdex Danh bạ Cách đọc điểm Đề xuất Đánh giá của tôi Doanh nghi",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Verdex · Green Score logistics",
+      "hasCanvas": false,
+      "bodyTextLen": 946,
+      "bodyTextHash": "038dcf8193ecf86b9ca39f581fde5e9ffb3f3948782b58d249e9dd3f5cc570dc",
+      "bodyTextPrefix": "Verdex Danh bạ Cách đọc điểm Đề xuất Đánh giá của tôi Doanh nghi",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
